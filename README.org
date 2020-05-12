@@ -1,0 +1,8 @@
+* SADL Mode
+
+An Emacs major mode for [[http://sadl.sourceforge.net/][SADL: The Semantic Application Design Language]].
+
+** Features
+
+- Syntax highlighting
+- Find definitions with =xref=
